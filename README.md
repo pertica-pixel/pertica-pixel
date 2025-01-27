@@ -1,6 +1,5 @@
 ## 🚀 My Personal GitHub Repository
 
-Here are some of the tools and technologies I work with:
 Hi, I'm Bruno! 👋  
 I'm a person with a passion for interests. 
 ---
