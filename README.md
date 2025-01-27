@@ -1,11 +1,5 @@
 # 🚀 My Personal GitHub Repository
 
-Welcome to my personal GitHub repository! This is where I showcase my projects, experiments, and contributions to the world of software development.
-
----
-
-## 🌟 About Me
-
 Hi, I'm Bruno! 👋  
 I'm a person with a passion for interests. 
 ---
