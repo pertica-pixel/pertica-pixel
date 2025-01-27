@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🚀 My Personal GitHub Repository
 
-<!--
-**pertica-pixel/pertica-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub repository! This is where I showcase my projects, experiments, and contributions to the world of software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+Hi, I'm Bruno! 👋  
+I'm a person with a passion for interests. 
+---
+
+## 🛠️ Technologies & Tools
+
+Here are some of the tools and technologies I work with:
+
+- Programming Languages: `Python`, `JavaScript`, `TypeScript`, `C++`  
+- Frameworks & Libraries: `React`, `Node.js`, `Django`, `Flask`  
+- Tools & Platforms: `Docker`, `Git`, `GitHub Actions`  
+
+---
+
+## 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pertica-pixel&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pertica-pixel&layout=compact&theme=radical)
+
+---
+
+Feel free to reach out if you’d like to collaborate or discuss interesting projects!
+
+---
+
+⭐ If you find something helpful here, consider giving a star to support my work!
+
